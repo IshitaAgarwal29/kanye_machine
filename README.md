@@ -1,0 +1,2 @@
+# kanye_machine
+Thoughts 
